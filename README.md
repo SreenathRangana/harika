@@ -1,9 +1,9 @@
-Made this as a birthday present for my girlfriend during lockdown. Small attempt for virtual party.
+Made this as a birthday present for my bestfriend. Small attempt for virtual party.
 
 Sample screenshot of the application .
 ![GitHub Logo](/images/screenshots/sample1.jpg)
 
-URL: https://sreenathrangana.github.io/harika/
+URL: https://sreenathrangana.github.io/razeya/
 
 Technology Used: Javascript, CSS3, HTML5
 
@@ -12,3 +12,4 @@ Technology Used: Javascript, CSS3, HTML5
 Open index.html in browser and navigate kss
 
 
+ sssss
